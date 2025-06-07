@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🪪 License
+## 🪪 Licence
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
