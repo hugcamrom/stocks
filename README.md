@@ -113,6 +113,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 `stocks` `python` `finance` `jupyter-notebook` `visualisation` `candlestick` `plotly` `automation` `yfinance`
 
+---
+
 **Author:** Hugo Camacho Romero  
 
 **Student at:** [ATU](https://www.atu.ie/)
