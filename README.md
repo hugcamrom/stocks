@@ -1,7 +1,7 @@
 # 📈 Stock Data Analysis & Visualisation
 
 **Author:** Hugo Camacho Romero  
-**Student at:** ATU  
+**Student at:** [ATU](https://www.atu.ie/)
 **Course:** Computer Infrastructure
 
 ---
